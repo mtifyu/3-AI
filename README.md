@@ -4,7 +4,7 @@
 
 ## Запуск
 1. `pip install -r requirements.txt`
-2. Создать файл `.env` и добавить: `MIMO_API_KEY=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`
+2. Создать файл `.env` (MIMO_API_KEY=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)
 3. Ввести `streamlit run app.py` и открыть `http://localhost:8501`
 
 ## Как пользоваться
